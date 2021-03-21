@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+.a,.b,.c,.d,.e,.f,.g,.h,.i{
+    text-align: center;
+    font-size: 24px;
+    line-height: 1.6;
+    font-weight: bold;
+    border: 1px solid white;
+}
+.contener{
+    height: 500px;
+    border: 1px solid white;
+}
+/* .a,.b,.c,.d{
+    border: 1px solid white; 
+} */
+

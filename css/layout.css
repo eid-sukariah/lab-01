@@ -1,0 +1,106 @@
+@media(min-width: 480px)/* and (max-width: 767px)*/{
+    .e,.f{
+        float: left;
+        width: 50%;
+    }
+    .g,.h{
+        float: left;
+        width: 50%;
+    }
+.a{
+    height: 75px;
+    background-color: rgba(112, 112, 236, 0.863);
+}
+.b{
+    height: 150px;
+    background-color: rgb(101, 153, 230);
+}
+.same{
+    height: 125;
+    background-color: rgb(166, 81, 245);
+}
+.e,.f,.g,.h{
+    height: 250px;
+    background-color: rgb(160, 139, 196);
+}
+.i{
+    height: 80px;
+    background-color: rgb(77, 77, 83);
+}   
+}
+
+
+@media(min-width: 480px) and (max-width: 767px){
+    .e,.f{
+        float: left;
+        width: 50%;
+    }
+    .g,.h{
+        float: left;
+        width: 50%;
+    }
+.a{
+    height: 75px;
+    background-color: rgba(112, 112, 236, 0.863);
+}
+.b{
+    height: 150px;
+    background-color: rgb(101, 153, 230);
+}
+.same{
+    height: 125;
+    background-color: rgb(166, 81, 245);
+}
+.e,.f,.g,.h{
+    height: 250px;
+    background-color: rgb(160, 139, 196);
+}
+.i{
+    height: 80px;
+    background-color: rgb(77, 77, 83);
+}   
+}
+
+/*for desktop*/
+@media(min-width: 768px)/* and (max-width: 960px)*/{
+    .a{
+        height: 100px;
+        background-color: rgb(0, 255, 149);
+    }
+    .b{
+        height: 600px;
+        width: 200px;
+        background-color: rgb(41, 247, 220);
+    }
+    .same{
+        /* width: 380px; */
+        /* float: right;  */
+        position: absolute;
+        bottom: 452px;
+        left: 200px;
+    }
+    .c, .d{
+        height: 200px;
+        width: 1500px;
+        background-color: rgb(81, 220, 245);
+    }
+    .e,.f,.g,.h{
+        height: 230px;
+        width: 362px;
+        background-color: rgb(112, 160, 73);
+    }
+    .contener{
+        height: 240px;
+        position: absolute;
+        left: 200px;
+        bottom: 240px;
+    }
+    .i{
+        height: 150px;
+        /* width: 760px; */
+        background-color: rgb(77, 83, 78);
+    }
+
+
+}
+
