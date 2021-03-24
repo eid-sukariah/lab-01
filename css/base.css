@@ -9,10 +9,11 @@
     border: 1px solid white;
 }
 .contener{
-    height: 500px;
+    
     border: 1px solid white;
 }
-/* .a,.b,.c,.d{
-    border: 1px solid white; 
-} */
-
+p{
+    position: relative;
+    top: 50%;
+    font-size: 40px;
+}
